@@ -5,9 +5,9 @@
   </a>
 </p>
 
-> 🏕 <a href="https://resultadosdigitais.com.br/marketing/o-que-e-landing-page/">LadingPage</a> construida em torno de um projeto <strong>não oficial</strong> de saúde.
+> 🏕 <a href="https://resultadosdigitais.com.br/marketing/o-que-e-landing-page/">LandingPage</a> construida em torno de um projeto <strong>não oficial</strong> de saúde.
 
-### 🏠 [Click here to see project](https://igusantos.github.io/Healthy-LandingPage/)
+### 🏠 [Clique para visualizar o projeto](https://igusantos.github.io/Healthy-LandingPage/)
 
 ## Author
 
