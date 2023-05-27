@@ -13,11 +13,7 @@
 
 👤 **Igor Pereira**
 
-* Github: [@IguSantos](https://github.com/IguSantos)
+* Instagram: [@igu_santos](https://www.instagram.com/igu_santos/)
 
 
-## Mostre seu apoio
 
-Dê uma ⭐️ se este projeto te ajudou!
-
-***
